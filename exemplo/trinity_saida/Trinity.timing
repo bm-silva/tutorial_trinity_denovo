@@ -1,0 +1,21 @@
+Statistics:
+===========
+Trinity Version:      Trinity-v2.12.0
+Compiler:             GCC
+Trinity Parameters:   --seqType fq --SS_lib_type RF --left rnaseq_data/Sp_log.left.fq.gz,rnaseq_data/Sp_plat.left.fq.gz --right rnaseq_data/Sp_log.right.fq.gz,rnaseq_data/Sp_plat.right.fq.gz --CPU 6 --max_memory 2G --output trinity_saida/
+Paired mode
+ Input data
+  Left.fasta    10 MByte
+  Right.fasta   10 MByte
+  Number of unique KMERs: 1141503
+  Number of reads:        196536 Output data
+  Trinity.fasta 0 MByte
+
+Runtime
+=======
+Start:       Wed Oct  6 16:41:55 UTC 2021
+End:         Wed Oct  6 16:46:46 UTC 2021
+Trinity   291 seconds
+  Inchworm (phase 1 - read clustering)  4 seconds
+  Chrysalis (phase 1 - read clustering) 263 seconds
+  Rest (phase 2 - parallel assembly)       24 seconds

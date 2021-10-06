@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.4.0",
+    "index": "/works/sharreddata/trinity_saida/Trinity.fasta.salmon.idx",
+    "libType": "IU",
+    "mates1": "/works/sharreddata/rnaseq_data/Sp_log.left.fq.gz",
+    "mates2": "/works/sharreddata/rnaseq_data/Sp_log.right.fq.gz",
+    "output": "salmon_saida/sp_log/",
+    "threads": "4",
+    "validateMappings": [],
+    "auxDir": "aux_info"
+}

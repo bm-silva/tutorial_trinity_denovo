@@ -1,0 +1,22 @@
+{
+    "index_version": 4,
+    "reference_gfa": [
+        "/works/sharreddata/trinity_saida/Trinity.fasta.salmon.idx"
+    ],
+    "sampling_type": "dense",
+    "k": 31,
+    "num_kmers": 293453,
+    "num_contigs": 395,
+    "seq_length": 305303,
+    "have_ref_seq": true,
+    "have_edge_vec": false,
+    "SeqHash": "8b34169fa3d4e069a37b5fed50c81055991e92bab2f9cb9dc3e80fc0a64f46a8",
+    "NameHash": "3f14845b71ef3257e4f47566605e8875cd5df934a19fc1954dbf98b358694524",
+    "SeqHash512": "56147a0ffe8f20004b24361f0585fe34b128498bb33f6d8423a8c0951eb1d2a9d5283238ad6d21eb35708bebf231ed6404001324f56b8976844767946b997b1a",
+    "NameHash512": "d8fc449c42927539280dcb1505cb791b99ec3dc6a230d223e9ee528d5a2651d812f70d0017a427cb958f15f070039aabdce6320001b9a2bd20ce129e050051e3",
+    "DecoySeqHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "DecoyNameHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "num_decoys": 0,
+    "first_decoy_index": 18446744073709551615,
+    "keep_duplicates": true
+}
